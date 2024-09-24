@@ -1,0 +1,18 @@
+{
+  "codigoGarantia": "f9186b14-9251-4313-ae44-baa13f0fcec6",
+  "operacoes": [
+    {
+      "codigoOperacao": "0093ad8e-3b4c-4b75-a266-451a1d7b63a8"
+    }
+  ],
+  "bens": [
+    {
+      "codigoBem": "6a886a57-4350-4282-b03b-7a0d08509f3b",
+      "garantidores": [
+        {
+          "codigoGarantidor":"1e77a299-bb86-419f-ab70-839176d53ffc"
+        }
+      ]
+    }
+  ]
+}
